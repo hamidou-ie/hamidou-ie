@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @hamidou-ie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Thierno Hamidou Diallo
 
-<!---
-hamidou-ie/hamidou-ie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ingénieur Logiciel Fullstack.  
+Je conçois des applications **scalables**, **sécurisées** et **maintenables** — de l’architecture (microservices, APIs) au delivery (CI/CD, conteneurs) — avec une forte exigence sur la **qualité** (TDD, SOLID/DDD), la **performance** et l’**observabilité** (logs, métriques, traces).
+
+### Stack & domaines
+- **Backend** : Java (Spring Boot/Cloud), C#/.NET, PHP (Symfony/Laravel), Python (Django)
+- **Frontend** : React / Angular / Vue
+- **DevOps** : Docker, Kubernetes, CI/CD (GitHub Actions / GitLab CI), IaC (Terraform)
+- **Data** : PostgreSQL/MySQL/MS SQL, notions Hadoop/Spark
+- **Domaines** : cargo/logistique, SI/ERP, fintech/paiement, secteur public
+
+### Ce que j’aime construire
+- Services robustes (contrats d’API, résilience, erreurs/timeout, versioning)
+- Pipelines fiables (build/test/deploy, release/rollback)
+- Systèmes observables et exploitables en production
+
+### Contact
+- LinkedIn : https://www.linkedin.com/in/thierno-hamidou-diallo-ba38a7203
+- Email : thdiallo.ie@gmail.com
