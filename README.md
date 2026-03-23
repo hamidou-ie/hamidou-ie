@@ -4,7 +4,7 @@ Ingénieur Logiciel Fullstack.
 Je conçois des applications **scalables**, **sécurisées** et **maintenables** — de l’architecture (microservices, APIs) au delivery (CI/CD, conteneurs) — avec une forte exigence sur la **qualité** (TDD, SOLID/DDD), la **performance** et l’**observabilité** (logs, métriques, traces).
 
 ### Stack & domaines
-- **Backend** : Java (Spring Boot/Cloud), C#/.NET, PHP (Symfony/Laravel), Python (Django)
+- **Backend** : Java (Spring Boot/Cloud), PHP (Symfony/Laravel), 
 - **Frontend** : React / Angular / Vue
 - **DevOps** : Docker, Kubernetes, CI/CD (GitHub Actions / GitLab CI), IaC (Terraform)
 - **Data** : PostgreSQL/MySQL/MS SQL, notions Hadoop/Spark
